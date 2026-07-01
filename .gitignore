@@ -5,6 +5,7 @@ results/*
 tb_logger/*
 wandb/*
 tmp/*
+gfpgan/weights/*.pth
 
 version.py
 
